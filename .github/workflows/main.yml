@@ -51,5 +51,5 @@ jobs:
           context: ./
           push: true
           tags: |
-            yangchuansheng/ip_derper:latest
-            ghcr.io/yangchuansheng/ip_derper:latest
+            zongzack/ip_derper:latest
+            ghcr.io/zongzack/ip_derper:latest
